@@ -1,38 +1,66 @@
-# Portafolio – Miguel Reyes
+# Trabajo Final del Curso – Aplicación Web Personal
 
-## Descripción
-Portafolio web que presenta mis proyectos académicos y prácticos en desarrollo web.
+## Curso
+- **Código:** PIAD-213  
+- **Asignatura:** Desarrollo de Aplicaciones Web I  
+- **Carrera:** Ingeniería de Software con Inteligencia Artificial  
+- **Semestre:** II  
 
-El objetivo del portafolio es demostrar mis habilidades técnicas en desarrollo de software, buenas prácticas, estructura de código y uso de tecnologías modernas.
+## Descripción del Proyecto
+Este proyecto corresponde al **Trabajo Final del Curso**, el cual consiste en el desarrollo de una **Aplicación Web Personal** cuyo objetivo es presentar de manera profesional la hoja de vida, experiencia académica, conocimientos técnicos y habilidades personales adquiridas durante los años de estudio.
 
-## Funcionalidades
-- Presentación de perfil profesional
-- Sección de proyectos con descripción técnica
-- Formularios de contacto
-- Diseño responsivo
-- Integración con sistemas web
+La aplicación está diseñada para ser **dinámica, atractiva y fácil de navegar**, permitiendo a los visitantes conocer el perfil profesional del desarrollador de forma clara y organizada.
 
-## Tecnologías utilizadas
+## Objetivo del Trabajo
+Desarrollar una aplicación web personal que permita:
+- Publicitar la hoja de vida profesional.
+- Mostrar los conocimientos adquiridos durante la formación académica.
+- Presentar la experiencia y habilidades personales.
+- Aplicar buenas prácticas de desarrollo web.
+- Demostrar el uso de tecnologías vistas en el curso.
+
+## Planteamiento del Trabajo
+La aplicación web cumple con los siguientes requisitos:
+
+- Nombre de dominio tentativo.
+- Diseño **responsive**, adaptable a distintos dispositivos.
+- Uso de tecnologías web:
+  - HTML
+  - CSS
+  - jQuery
+  - AJAX
+- Formulario de contacto funcional.
+- Integración de ubicación mediante **Google Maps**.
+- Mínimo **5 enlaces de navegación**.
+- Uso de imágenes y fotos de alta calidad.
+
+## Tecnologías Utilizadas
 - HTML5
 - CSS3
 - JavaScript
+- jQuery
+- AJAX
 - Git / GitHub
 
-## Proyectos destacados
-- Formularios con validación
+## Funcionalidades Principales
+- Presentación de perfil personal y profesional.
+- Secciones informativas (experiencia, habilidades, proyectos).
+- Formulario de contacto.
+- Mapa de ubicación integrado.
+- Navegación intuitiva y diseño moderno.
+- Adaptabilidad a dispositivos móviles y escritorio.
 
-## Cómo ejecutar el proyecto
-1. Clonar el repositorio:
-   git clone https://github.com/MR-Dev-Soft/Trabajo-Final.git
-2. Abrir el proyecto en un editor de código
-3. Ejecutar en el navegador
-4. Importar la base de datos si el proyecto lo requiere
+## Cómo Ejecutar el Proyecto
+1. Clonar el repositorio: git clone https://github.com/MR-Dev-Soft/Trabajo-Final.git
+2. Abrir el proyecto en un editor de código.
+3. Ejecutar el archivo `index.html` en un navegador web.
+4. Para funcionalidades avanzadas, usar un servidor local (XAMPP o similar).
 
-## Estado del proyecto
-Portafolio activo y en mejora continua.
+## Estado del Proyecto
+Proyecto completado como trabajo final del curso, con posibilidad de mejoras y ampliaciones futuras.
 
 ## Autor
-Miguel Reyes Sanchez 
-Ingeniero de Software  
+**Miguel Reyes Sanchez**  
+Ingeniería de Software con Inteligencia Artificial  
 GitHub: https://github.com/MR-Dev-Soft
 
